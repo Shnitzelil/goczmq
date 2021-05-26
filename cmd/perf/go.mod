@@ -1,7 +1,7 @@
-module github.com/zeromq/goczmq/v4/cmd/perf
+module github.com/Shnitzelil/goczmq/v5/cmd/perf
 
-go 1.12
+go 1.16
 
-replace github.com/zeromq/goczmq/v4 => ../../
+replace github.com/Shnitzelil/goczmq/v5 => ../../
 
-require github.com/zeromq/goczmq/v4 v4.0.0-00010101000000-000000000000
+require github.com/Shnitzelil/goczmq/v5 v5.0.0-00010101000000-000000000000
